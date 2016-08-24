@@ -1,8 +1,8 @@
 {
   "name": "citeproc-js-node-patch",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Temporary module to fix an apparent bug in citeproc-js-node. DO NOT USE this unless citeproc-js-node does not work for you. See https://github.com/fcheslack/citeproc-js-node/issues/4",
-  "main": "index.js",
+  "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/austinjp/citeproc-js-node-patch/issues"
   },
-  "homepage": "https://github.com/austinjp/citeproc-js-node-patch#readme"
+  "homepage": "https://github.com/austinjp/citeproc-js-node-patch#readme",
+  "dependencies": {
+    "bluebird": ">=2.9",
+    "jsdom": ">=4.0",
+    "npmlog": ">=1.2",
+    "underscore": ">=1.8"
+  },
 }
